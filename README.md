@@ -1,6 +1,10 @@
 ubuntu-gpu-test
 ===============
 
+NOTE:  https://github.com/NVIDIA/nvidia-docker is the better way of doing this these days.
+
+---------
+
 Compile &amp; Run a test script on a GPU-enabled Ubuntu Docker container
 
 This needs to run on a GPU-enabled machine.  Here's how to set one up on AWS:
